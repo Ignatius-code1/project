@@ -14,7 +14,7 @@
 <body>
   <main>
     <div class="filter">
-        <input type="text" id="search" placeholder="Search for a dish or cuisine..." oninput="filterDishes()"/>
+        <input type="text" id="search" placeholder="Search for a cuisine..." oninput="filterDishes()"/>
         <select id="cuisineFilter">
             <option value="">All Cuisines</option>
             <option value="Italian">Italian</option>
@@ -39,7 +39,19 @@
 
     </div>
 
+    <div id="dishesContainer">
+        
     </div>
-  </main>  
+    <div id="errorMessage" class="error-message" style="display: none;">
+        <p>Sorry, we couldn't find any dishes matching your search criteria.</p>
+    </div>
+    <div id="loadingMessage" class="loading-message" style="display: none;">
+        <p>Loading dishes...</p>
+    </div>
+    <div id="recipeContainer" class="recipe-container"></div>
+  </main> 
+    
+    </div>
+  </div>
 </body>
 </html>
