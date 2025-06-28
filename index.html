@@ -9,9 +9,37 @@
 </head>
 <header>
     <h1>🌍Global Bites🌍</h1>
-    <p>Have a Taste of the World</p>
+    <p>Have a Taste of the World Through its cuisines</p>
 </header>
 <body>
-    
+  <main>
+    <div class="filter">
+        <input type="text" id="search" placeholder="Search for a dish or cuisine..." oninput="filterDishes()"/>
+        <select id="cuisineFilter">
+            <option value="">All Cuisines</option>
+            <option value="Italian">Italian</option>
+            <option value="Mexican">Mexican</option>
+            <option value="Japanese">Japanese</option>
+            <option value="Indian">Indian</option>
+            <option value="Chinese">Chinese</option>
+            <option value="French">French</option>
+            <option value="Spanish">Spanish</option>
+            <option value="Thai">Thai</option>
+            <option value="American">American</option>
+            <option value="Korean">Korean</option>
+            <option value="Vietnamese">Vietnamese</option>
+            <option value="Middle Eastern">Middle Eastern</option>
+            <option value="Caribbean">Caribbean</option>
+            <option value="African">African</option>
+            <option value="British">British</option>
+            <option value="Greek">Greek</option>
+            <option value="Mediterranean">Mediterranean</option>
+        </select>
+        <button onclick="fetchDishes()">Search</button>
+
+    </div>
+
+    </div>
+  </main>  
 </body>
 </html>
