@@ -79,6 +79,14 @@
       "strCategory": "Rice",
       "strMealThumb": "https://www.themealdb.com/images/media/meals/kw92t41604181871.jpg",
       "strInstructions": "1. Sauté onions, tomatoes, and peppers. 2. Add rice and broth. 3. Cook with spices and vegetables until rice is tender."
+    },
+    {
+      "id": 11,
+      "strMeal": "Bibimbap",
+      "strArea": "Korean",
+      "strCategory": "Rice",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/ctg8jd1585563097.jpg",
+      "strInstructions": "1. Cook rice. 2. Sauté assorted vegetables and beef. 3. Fry an egg. 4. Arrange rice, vegetables, beef, and egg in a bowl. 5. Top with gochujang sauce and mix before eating."
     }
   ]
 }
