@@ -68,7 +68,7 @@ async function showRecipeDetails(id) {
     }
   }
 
-  // Split instructions by regex to get steps, fallback to single step if not numbered
+ 
   let steps = meal.strInstructions.match(/\d+\.\s[^\d]+/g) || [meal.strInstructions];
   const instructionsList = steps.map(step => `<li>${step.replace(/\d+\.\s/, '').trim()}</li>`).join('');
 
