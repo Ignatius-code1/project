@@ -1,0 +1,84 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "strMeal": "Spaghetti",
+      "strArea": "Italian",
+      "strCategory": "Pasta",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/1bsv1q1560459826.jpg",
+      "strInstructions": "1. Boil water in a large pot. 2. Add spaghetti and cook until al dente. 3. Drain and serve with sauce of choice."
+    },
+    {
+      "id": 2,
+      "strMeal": "Tacos",
+      "strArea": "Mexican",
+      "strCategory": "Street Food",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/qtuwxu1468233098.jpg",
+      "strInstructions": "1. Prepare tortillas. 2. Cook meat with spices. 3. Fill tortillas with meat and vegetables. 4. Top with salsa and cheese."
+    },
+    {
+      "id": 3,
+      "strMeal": "Sushi",
+      "strArea": "Japanese",
+      "strCategory": "Seafood",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/g046bb1663960946.jpg",
+      "strInstructions": "1. Cook sushi rice. 2. Place rice on seaweed sheet. 3. Add fish and vegetables. 4. Roll tightly and slice."
+    },
+    {
+      "id": 4,
+      "strMeal": "Butter Chicken",
+      "strArea": "Indian",
+      "strCategory": "Curry",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg",
+      "strInstructions": "1. Marinate chicken in yogurt and spices. 2. Cook chicken in butter. 3. Add tomato sauce and simmer. 4. Serve with rice or naan."
+    },
+    {
+      "id": 5,
+      "strMeal": "Ratatouille",
+      "strArea": "French",
+      "strCategory": "Vegetable",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/wrpwuu1511786491.jpg",
+      "strInstructions": "1. Slice vegetables thinly. 2. Layer in a baking dish. 3. Drizzle with olive oil and season. 4. Bake until tender."
+    },
+    {
+      "id": 6,
+      "strMeal": "Pad Thai",
+      "strArea": "Thai",
+      "strCategory": "Noodles",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg",
+      "strInstructions": "1. Soak rice noodles. 2. Stir-fry shrimp, tofu, and eggs. 3. Add noodles and sauce. 4. Top with peanuts and lime."
+    },
+    {
+      "id": 7,
+      "strMeal": "Pho",
+      "strArea": "Vietnamese",
+      "strCategory": "Soup",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/8x09hy1560460923.jpg",
+      "strInstructions": "1. Simmer beef bones with spices for broth. 2. Cook rice noodles. 3. Assemble noodles, beef, and herbs in a bowl. 4. Pour hot broth over."
+    },
+    {
+      "id": 8,
+      "strMeal": "Paella",
+      "strArea": "Spanish",
+      "strCategory": "Rice",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/1520081754.jpg",
+      "strInstructions": "1. Sauté seafood, chicken, and vegetables. 2. Add rice and saffron. 3. Pour in broth and cook until rice is done."
+    },
+    {
+      "id": 9,
+      "strMeal": "Moussaka",
+      "strArea": "Greek",
+      "strCategory": "Casserole",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/ctg8jd1585563097.jpg",
+      "strInstructions": "1. Slice and fry eggplant and potatoes. 2. Layer with meat sauce in a dish. 3. Top with béchamel sauce. 4. Bake until golden."
+    },
+    {
+      "id": 10,
+      "strMeal": "Jollof Rice",
+      "strArea": "African",
+      "strCategory": "Rice",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/kw92t41604181871.jpg",
+      "strInstructions": "1. Sauté onions, tomatoes, and peppers. 2. Add rice and broth. 3. Cook with spices and vegetables until rice is tender."
+    }
+  ]
+}
